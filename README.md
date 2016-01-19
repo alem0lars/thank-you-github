@@ -324,3 +324,4 @@ Signed,
 - Ibrahim Jarif ([@jarifibrahim](https://github.com/jarifibrahim)), Student
 - Vinod Pahuja ([@vinodpahuja](https://github.com/vinodpahuja)), Principle Developer
 - Carles Climent ([@carlescliment](https://github.com/carlescliment)), Software Developer
+- Alessandro Molari ([@alem0lars](https://github.com/alem0lars)), Enthusiast Software Developer
